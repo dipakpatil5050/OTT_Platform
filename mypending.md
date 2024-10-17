@@ -1,4 +1,4 @@
-# Install Package
+# Install Packages
 
 1. cmd to install Nodemon
 
@@ -29,5 +29,32 @@ npm install mongoose
 ```bash
 
 npm i dotenv express mongoose
+
+```
+
+5. mongoose aggregate
+
+```bash
+
+npm i mongoose-aggregate-paginate-v2
+
+```
+
+# 6. bcrypt install
+
+library which help you hash password
+
+```bash
+
+npm i bcrypt
+
+```
+
+# 7. JWT Install
+
+```bash
+
+npm i jsonwebtoken
+
 
 ```
